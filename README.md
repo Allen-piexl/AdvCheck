@@ -7,7 +7,7 @@ The code should be run using python 3.6.0, Tensorflow-gpu 2.4.0, Keras 2.4.3, PI
 
 Here, we give VGG19 trained under CIFAR-10 as a example.
 
-# How to train a perfect moddel
+# How to train a perfect model
   ```python
  python cifar_model.py
   ```
