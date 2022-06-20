@@ -19,4 +19,4 @@ The code should be run using python 3.6.0, Tensorflow-gpu 2.4.0, Keras 2.4.3, PI
  python check_peturbations.py
 ```
 # Note
-See the paper DeepSensor: Deep Learning Testing Framework Based on Neuron Sensitivity for more details.
+See the paper Adversarial Examples Detection via Local Gradient Checking for more details.
