@@ -14,5 +14,5 @@ See the paper AdvCheck: Adversarial Examples Detection via Local Gradient Checki
  
   - Adversarial Detection
   ```python
- check_peturbations.py
+ python check_peturbations.py
 ```
