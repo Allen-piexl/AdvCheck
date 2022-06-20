@@ -3,6 +3,10 @@
 # Setup
 The code should be run using python 3.6.0, Tensorflow-gpu 2.4.0, Keras 2.4.3, PIL, h5py, and opencv-python
 
+# Datasets & Models
+
+Here, we give VGG19 trained under CIFAR-10 as a example.
+
 # How to run
  - Show Observations
  ```python
