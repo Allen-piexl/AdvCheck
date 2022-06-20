@@ -1,7 +1,7 @@
 # AdvCheck: Adversarial Examples Detection via Local Gradient Checking
 
 # Setup
-The code should be run using python 3.6.0, Tensorflow-gpu 2.4.0, Keras 2.4.3, PIL, h5py, and opencv-python
+The code should be run using python 3.6.0, Tensorflow-gpu 2.4.0, Keras 2.4.3, Foolbox 2.3.0, PIL, h5py, and opencv-python
 
 # Datasets & Models
 
